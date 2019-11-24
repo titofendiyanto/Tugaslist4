@@ -8,9 +8,9 @@ tanya = []
 while True:
     in_nama = input("Nama : ")
     in_nim = input("Nim : ")
-    in_tugas = int(input("Tugas : "))
-    in_uts = int(input("UTS : "))
-    in_uas = int(input("UAS : "))
+    in_tugas = float(int(input("Tugas : "))*0.3)
+    in_uts = float(int(input("UTS : "))*0.35)
+    in_uas = float(int(input("UAS : "))*0.35)
     in_tanya = input("Tambah data(y/t)? ")
     nama.append(in_nama)
     nim.append(in_nim)
@@ -46,7 +46,7 @@ for i in range(len(nama)):
     print("|  "+str(uas[i]),end="")
     for n in range(5-len(str(uas[i]))):
         print(" ",end="")
-    akhir = round((tugas[i]+uts[i]+uas[i])/3, 1)
+    akhir = round((tugas[i]+uts[i]+uas[i]), 1)
     print("|  "+str(akhir),end="")
     for o in range(6-len(str(akhir))):
         print(" ",end="")
