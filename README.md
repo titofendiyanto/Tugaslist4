@@ -25,18 +25,3 @@ tugas2+uts2+uas2/3
 *9.Lalu Program akan mengoutputkan semua data yang telah di olah.*
 
 *10.Program selesai.*
-
-#Flowchart Program4
-
-![gambar float chart](https://user-images.githubusercontent.com/57053160/69489263-a348b580-0ea7-11ea-821c-be95609a21e6.jpg)
-
-#Hasil Program
-
-![gambar list tito](https://user-images.githubusercontent.com/57053160/69489533-ffadd400-0eab-11ea-8422-faa21a769f21.png)
-
-![gambar list tito yang ke 2](https://user-images.githubusercontent.com/57053160/69489511-bd849280-0eab-11ea-843e-811f765cb9d7.png)
-
-
-                                        :::TITO FENDIYANTO:::
-                                         :::__311910183__:::
-                                         :::__TI.19.D.2__:::
