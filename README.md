@@ -32,7 +32,7 @@ tugas2+uts2+uas2/3
 
 #Hasil Program
 
-![gambar list tito](https://user-images.githubusercontent.com/57053160/69489223-143b9d80-0ea7-11ea-8b2e-6f08f47c4372.png)
+![gambar list tito yang ke 2](https://user-images.githubusercontent.com/57053160/69489511-bd849280-0eab-11ea-843e-811f765cb9d7.png)
 
 
                                         :::TITO FENDIYANTO:::
